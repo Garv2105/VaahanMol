@@ -1,0 +1,52 @@
+VahanMol License (MIT-based, with Ethical Use clause)
+Copyright (c) 2026 Garv Gulati
+
+This license exists mainly to put on record that Garv Gulati is the
+original author of this project, and to rule out its use for harmful
+purposes. Beyond that, everything here is free to use.
+
+1. Grant of rights (code and original content)
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+  a. The above copyright notice and this permission notice shall be
+     included in all copies or substantial portions of the Software.
+
+  b. The Software, or any derivative of it, may NOT be used to build,
+     support, or facilitate anything intended to harm people, deceive
+     people at scale, discriminate unlawfully, violate anyone's privacy,
+     or break applicable law. This is the only substantive restriction
+     this license imposes; it is not intended to restrict ordinary
+     commercial, academic, personal, or research use in any way.
+
+2. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+3. Third-party dataset — not covered by this license
+
+This project's code was written to work with the "Vehicle dataset from
+cardekho" dataset by Nehal Birla, Nishant Verma, and Nikhil Kushwaha,
+hosted on Kaggle:
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
+(originally scraped from CarDekho.com listings).
+
+That dataset is NOT included in this repository and is NOT owned by the
+author of this project. It is not covered by Section 1 above. The dataset
+is licensed under the Database Contents License (DbCL) v1.0
+(https://opendatacommons.org/licenses/dbcl/1-0/). If you obtain and
+redistribute the dataset itself, you must do so under that license, with
+the source cited. Nothing in this license grants any rights to the
+dataset beyond what DbCL-1.0 already permits.
